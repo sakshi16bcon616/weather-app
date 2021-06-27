@@ -1,3 +1,5 @@
 You can simply run this application by using following command:
-1. npm install (Install the dependencies)
-2. node index.js (Run your application)
+1. Install the dependencies:
+npm install
+2. Run the application:
+node index.js
